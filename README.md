@@ -42,5 +42,6 @@ This project demonstrates object-oriented programming (OOP) principles in Java b
 
 ---
 
-## LICENSE 2025
+## LICENSE
+**MIT License**
 
